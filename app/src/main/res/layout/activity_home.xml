@@ -275,5 +275,15 @@
 
     </GridLayout>
 
+    <TextView
+        android:id="@+id/animatedText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:textColor="@color/teal_200"
+        android:text="clickable: Medicine Request and Doctors. Reason: similarity"
+        android:layout_alignParentBottom="true"/>
+
 
 </RelativeLayout>

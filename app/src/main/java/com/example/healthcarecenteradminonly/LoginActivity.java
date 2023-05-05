@@ -20,7 +20,7 @@ public class LoginActivity extends AppCompatActivity {
         binding.btnLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String email=binding.edtEmail.getText().toString();
+                String email=binding.edtUserName.getText().toString();
                 String pass=binding.edtPassword.getText().toString();
 
                 if (email.equals("admin") && pass.equals("admin")){

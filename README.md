@@ -4,4 +4,8 @@ User app --> [click here](https://github.com/chistia007/Health-Care-Center)
 
 Report ----------> [click here](https://drive.google.com/file/d/1c-Ib265O2qqCj8bKVTJPL7Zkw8dOYopj/view?usp=sharing)
 
+To login Admin pnael:
+Username- admin
+password- admin
+
 
